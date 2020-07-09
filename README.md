@@ -10,7 +10,7 @@ The goal of the targeted attack is to slightly modify source image in a way that
 
 final rank: 11/2519
 
-[Home page of this competion](https://tianchi.aliyun.com/competition/entrance/231701/introduction?spm=5176.12281915.0.0.71a94b15lWaznZ)
+[Competition home page](https://tianchi.aliyun.com/competition/entrance/231701/introduction?spm=5176.12281915.0.0.71a94b15lWaznZ)
 
 ## Method
 
