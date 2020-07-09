@@ -2,7 +2,7 @@
 
 ## Background
 
-<img src="C:\Users\win10\Desktop\对抗样本.png" style="zoom:0.6"/>
+<img src="C:\Users\win10\Desktop\https://github.com/Tristan-YF/IJCAI-2019_Alibaba_Adversarial_AI_Challenge/blob/master/adversarial%20image.png" style="zoom:0.6"/>
 
 Task: Targeted Adversarial Attack
 
