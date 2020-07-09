@@ -8,7 +8,7 @@ Task: Targeted Adversarial Attack
 
 The goal of the targeted attack is to slightly modify source image in a way that image will be classified as specified target class by generally unknown machine learning classifier.
 
-Season 2 final rank: 11/2519
+final rank: 11/2519
 
 [Home page of this competion](https://tianchi.aliyun.com/competition/entrance/231701/introduction?spm=5176.12281915.0.0.71a94b15lWaznZ)
 
